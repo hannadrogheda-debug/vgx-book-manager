@@ -80,3 +80,7 @@ O projeto foi desenvolvido **100% online**, utilizando **GitHub Codespaces** no 
 cd backend
 npm install
 npm run start:dev
+
+## AUTOR
+
+- Hanna de Quadros Freitas
