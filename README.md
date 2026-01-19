@@ -1,9 +1,14 @@
 
 # 📚 Book Manager — Desafio Técnico Full Stack
 
+
+
 Aplicação full-stack para gerenciamento de livros, com autenticação JWT e CRUD completo.
 
 O projeto foi desenvolvido **100% online**, utilizando **GitHub Codespaces** no frontend e backend, e **PostgreSQL no Railway**.
+
+Autor: Hanna de Quadros Freitas 
+Email: hannadrogheda@gmail.com
 
 ---
 
@@ -80,7 +85,3 @@ O projeto foi desenvolvido **100% online**, utilizando **GitHub Codespaces** no 
 cd backend
 npm install
 npm run start:dev
-
-## AUTOR
-
-- Hanna de Quadros Freitas
