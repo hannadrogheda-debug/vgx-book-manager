@@ -1,5 +1,5 @@
 
-# 📚 Book Manager — Desafio Técnico Full Stack
+# 📚 Book Manager
 
 
 
